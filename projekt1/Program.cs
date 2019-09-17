@@ -49,7 +49,7 @@ namespace projekt1
             var next = Console.ReadKey();
             startAgain = next.Key == ConsoleKey.Enter;
 
-
+            Console.Read();
 
 
             Console.ReadLine();
